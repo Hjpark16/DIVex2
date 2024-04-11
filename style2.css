@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #feb7b7;
+    padding: 20px;
+    text-align: center; color:#000000
+}
+
+header img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Section styles */
+section {
+    padding: 20px;
+    background-color: #fc6c6c;
+    text-align: center;
+}
+
+section h2 {
+    margin-bottom: 10px;
+    color: #000000;
+}
+
+.student{
+    color: #f1abab;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
